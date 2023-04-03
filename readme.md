@@ -2,6 +2,7 @@
 
 - This Website is for online buying Admin Page and His Services
 - which is given every and each deatil their needs and teir personal access also provide full database
+- we can say its beutifull design .given right solution with good features and provide good user experience to clien
 
 
 # Replicate the Following Output
