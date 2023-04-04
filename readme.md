@@ -19,3 +19,8 @@
 `Assests are Provided!`
 
 ![Project 6](./Data%20Analytics%20Landing%20page.png)
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-joshi-2512a2162/)
+
